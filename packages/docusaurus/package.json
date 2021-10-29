@@ -2,6 +2,7 @@
   "name": "@docusaurus/core",
   "description": "Easy to Maintain Open Source Documentation Websites",
   "version": "2.0.0-beta.8",
+  "type": "module",
   "license": "MIT",
   "publishConfig": {
     "access": "public"

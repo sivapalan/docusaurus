@@ -1,6 +1,7 @@
 {
   "name": "@docusaurus/plugin-sitemap",
   "version": "2.0.0-beta.8",
+  "type": "module",
   "description": "Simple sitemap generation plugin for Docusaurus.",
   "main": "lib/index.js",
   "types": "src/plugin-sitemap.d.ts",

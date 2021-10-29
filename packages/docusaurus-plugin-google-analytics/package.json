@@ -1,6 +1,7 @@
 {
   "name": "@docusaurus/plugin-google-analytics",
   "version": "2.0.0-beta.8",
+  "type": "module",
   "description": "Global analytics (analytics.js) plugin for Docusaurus.",
   "main": "lib/index.js",
   "types": "src/plugin-google-analytics.d.ts",

@@ -1,6 +1,7 @@
 {
   "name": "@docusaurus/theme-classic",
   "version": "2.0.0-beta.8",
+  "type": "module",
   "description": "Classic theme for Docusaurus",
   "main": "lib/index.js",
   "types": "src/types.d.ts",

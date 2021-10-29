@@ -1,6 +1,7 @@
 {
   "name": "@docusaurus/plugin-content-docs",
   "version": "2.0.0-beta.8",
+  "type": "module",
   "description": "Docs plugin for Docusaurus.",
   "main": "lib/index.js",
   "types": "src/plugin-content-docs.d.ts",
